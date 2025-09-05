@@ -1,6 +1,6 @@
 <samp>
   
-:mortar_board: I’m currently a second-year PhD student in HITSZ.
+:mortar_board: I’m currently a third-year PhD student in HITSZ.
   
 :cookie: My research interests are integrated sensing, communication, and computation, goal-oriented semantic communication, machine learning, explainable AI, distributed/decentralized learning.
   
